@@ -1,0 +1,6 @@
+name: PluginJS
+version: 1.0
+description: Simple JavaScript plugin
+author: nahkd123
+main: me.nahkd.spigot.pljs.PluginJSMain
+softdepend: [WorldEdit]
